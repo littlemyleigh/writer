@@ -124,3 +124,39 @@
 作者：瑞吉欧学前教育系统创始人马拉古兹
 
 图片: 豆瓣 https://img3.doubanio.com/view/note/large/public/p184907051-1.jpg
+***
+# 太空旅行
+
+NASA下属机构喷气推进实验室(Jet Propulsion Laboratory)，始建于1936年，以无人飞行器探索太阳系中心，他们的飞船到过全部已知大行星。历经5年、20亿英里航行，朱诺号（Juno）探测器2016年飞抵木星，驶入木星轨道。为了普及太空探索， 激发公众好奇和支持，该实验室的视觉设计师2015-16连续两年向大众发布了设计精美、风格复古的太空旅行系列海报。（2015 "太空旅行社"系列、2016 "未来视角"系列）
+
+
+![small icon](https://www.jpl.nasa.gov/visions-of-the-future/images/grand_tour-small.jpg)
+
+旅行者二号是NASA于1977年8月20日发射的无人宇宙飞船。图中的「伟大航程」（The Grand Tour）就是旅行者二号的太空路线。
+
+1986年，旅行者二号经过天王星，1989年经过海王星。如果飞行顺利，它将在公元8571年飞抵距离地球四光年的Barnard恒星附近。
+
+![small icon](https://www.jpl.nasa.gov/visions-of-the-future/images/kepler16b-small.jpg)
+
+开普勒-16b，NASA探测器观测到的一颗行星。它围绕着两颗恒星运行，也就意味着在这里的天空中会出现两颗太阳。
+
+![small icon](https://www.jpl.nasa.gov/visions-of-the-future/images/kepler186f-small.jpg)
+
+开普勒-186f是一颗环绕红矮星开普勒186的太阳系外行星。由于温度和大气中辐射光线的不同，科学家们想象假如存在植物，它们的颜色也会与地球上的植物大不相同。
+
+![small icon](https://www.jpl.nasa.gov/visions-of-the-future/images/mars-small.jpg)
+
+海报幻想了人类在火星上的生活。海报背景中出现了奥林帕斯山的轮廓，并且描绘出了可能存在的地下水。火星车车轮处的摩斯密码，破译出来就是JPL（喷气推进实验室的缩写）。
+
+PSO J318.5-22行星上存在熔化金属云，其中浓缩着铁和硅酸盐液滴。这颗行星非常暗淡，用科学家们的玩笑说，这里的「夜生活永远不会结束」！
+
+金星的空气中没有水份，但其周围有浓密的大气和云层，云层的主要成分是硫酸。图中描绘的就是一座云中城市，背景中的水星正越过太阳。
+
+![small icon](https://www.jpl.nasa.gov/visions-of-the-future/images/earth-small.jpg)
+
+在这十四张海报中，只有一张描绘了人类休憩的场景。一对情侣摘下头盔互相依偎，底部文字写着「地球：太空中的绿洲，空气清新，呼吸畅快」。
+
+海报解说: 中科院物理研究所 http://www.360doc.com/content/16/1011/15/31728201_597606549.shtml
+海报设计: Jet Propulsion Laboratory NASA  https://www.jpl.nasa.gov/visions-of-the-future/
+
+
